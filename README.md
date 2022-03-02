@@ -3,7 +3,9 @@
 
 This is the final project repo of GR5291 group 14
 
-Group Members: Xuan Lian
+Project Summary:
+
+Group Members: Xuan Lian, Hui Xiang, Tianxing Li, jing Wang, Jiapeng Zeng
 
 
 
